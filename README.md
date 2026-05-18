@@ -1,25 +1,16 @@
-# Tugas Pertemuan 9 - Laravel Routing
+## Screenshot
 
-## Nama
-Lintang Tsaniatu Azzahro
+### Halaman Anggota
+![Halaman Anggota](screenshot/daftar_anggota.jpeg)
 
-## NIM
-60324007
+### Detail Anggota
+![Detail Anggota](screenshot/detail_anggota.jpeg)
 
-## Deskripsi
-Project sistem perpustakaan menggunakan Laravel 13.
+### Halaman Kategori
+![Kategori](screenshot/daftar_kategori.jpeg)
 
-## Fitur
-- Routing Laravel
-- View Blade
-- Controller
-- Data anggota
-- Data kategori buku
+## Kategori/1
+![Kategori](screenshot/kategori1.jpeg)
 
-## Cara Menjalankan
-1. Jalankan Laragon
-2. Buka terminal project
-3. Ketik:
-   php artisan serve
-4. Buka:
-   http://127.0.0.1:8000
+### Search Kategori
+![Search](screenshot/kategori_programming.jpeg)
