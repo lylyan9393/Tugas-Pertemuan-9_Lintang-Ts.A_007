@@ -50,10 +50,10 @@
                             <tr>
                                 <th>Stok</th>
                                 <td>: 
-                                    @if ($angota['status'] == 'Aktif')
-                                        <span class="badge bg-success">{{ $angota['status'] }} Aktif</span>
+                                    @if ($buku['stok'] > 0)
+                                        <span class="badge bg-success">{{ $buku['stok'] }}</span>
                                     @else
-                                        <span class="badge bg-danger">{{ $anggota['status'] }} Nonaktif</span>
+                                        <span class="badge bg-danger">Habis</span>
                                     @endif
                                 </td>
                             </tr>
